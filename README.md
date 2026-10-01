@@ -11,6 +11,7 @@
 ### Android & software developer crafting privacy-first tools and polished user experiences
 
 [![GitHub](https://img.shields.io/badge/GitHub-k5rxd-181717?logo=github)](https://github.com/k5rxd)
+[![Facebook](https://img.shields.io/badge/Facebook-Kazi%20Golam%20Rafsan-0866FF?logo=facebook&logoColor=white)](https://www.facebook.com/kazigolamrafsan/)
 [![Android](https://img.shields.io/badge/Focus-Android-3DDC84?logo=android&logoColor=white)](https://github.com/k5rxd?tab=repositories)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Builder-42DFFF)](https://github.com/k5rxd?tab=repositories)
 
